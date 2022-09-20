@@ -1,0 +1,4 @@
+word:{
+"name":"apple",
+"otherName":"hello"
+}
